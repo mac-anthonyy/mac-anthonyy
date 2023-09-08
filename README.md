@@ -1,6 +1,6 @@
 ### Hi there 👋, Okeke Mac-anthony
 #### Web Development and  Content Writing
-![Web Development and  Content Writing](https://img.freepik.com/free-photo/close-up-image-programer-working-his-desk-office_1098-18707.jpg?w=1060&t=st=1694185869~exp=1694186469~hmac=92ed310bf461b26c277e84d074364368bf8903d28da598e64d77c2c7ef82f4b1)
+![Web Development and  Content Writing](https://github.com/mac-anthonyy/mac-anthonyy/blob/main/close-up-image-programer-working-his-desk-office.jpg)
 
  I’m Mac-anthony from Nigeria, and I do web development. I really enjoy learning languages and frameworks like HTML, CSS, Bootstrap, and React.
 I also like to constantly look for ways to improve myself professionally.
